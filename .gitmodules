@@ -1,3 +1,6 @@
 [submodule "aws"]
 	path = aws
 	url = https://github.com/venkatesh-pogula/aws-pratice.git
+[submodule "packer"]
+	path = packer
+	url = https://github.com/venkatesh-pogula/terraform.git
