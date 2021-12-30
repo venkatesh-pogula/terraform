@@ -24,3 +24,10 @@ variable "web_subnet_index" {
     default = [ 0 ]
   
 }
+
+variable "app_subnet_index" {
+
+    type = list(number)
+    default = [ 1 ]
+  
+}
